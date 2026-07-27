@@ -1,0 +1,14 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.imashishkh21/atlaso",
+  "title": "Atlaso",
+  "description": "AI memory layer — one shared, persistent memory across every AI tool you connect.",
+  "version": "1.0.0",
+  "websiteUrl": "https://www.atlaso.ai",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.atlaso.ai/mcp"
+    }
+  ]
+}
