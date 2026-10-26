@@ -17,6 +17,9 @@ to the endpoint below and authorize in your browser.
 - **Website:** https://www.atlaso.ai
 - **Docs:** https://docs.atlaso.ai
 
+## Why this exists
+Claude Desktop, Zed, Cline and other MCP clients have no memory of their own that reaches your coding tools. This hosted server gives any MCP client the same memory your coding tools share: decisions made in long chats, research and notes, preferences that should follow you. Memory works when the model calls the tools (remember, recall, forget); a skill can make that routine. Add `https://mcp.atlaso.ai/mcp` as a connector and sign in. [Claude Desktop](https://www.atlaso.ai/for/claude-desktop) · [Any MCP tool](https://docs.atlaso.ai/tools/custom-mcp)
+
 ## Connect
 
 Any MCP client that supports remote servers can connect. Add
